@@ -1,11 +1,3 @@
-/*
-//// Make login controller
-//// Make Login Routes
-//// Make blog Model Schema
-//// Make CREATE, UPDATE and DELETE for Blog Post
-//// Make Authentication
-
-*/
 require('dotenv').config();
 
 const express = require('express');
